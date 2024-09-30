@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ChannelContext
+namespace FluxViewer.Core.ChannelContext
 {
     /// <summary>
     /// Класс отдельного канала

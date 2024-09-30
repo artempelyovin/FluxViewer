@@ -8,7 +8,7 @@ using System.Runtime.Serialization;
 using System.Text.Json;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace ChannelContext
+namespace FluxViewer.Core.ChannelContext
 {
 
     /// <summary>
